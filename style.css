@@ -46,3 +46,7 @@ button {
 .box1 {
   display: inline-flexbox;
 }
+
+footer {
+  align-items: flex-start;
+}
